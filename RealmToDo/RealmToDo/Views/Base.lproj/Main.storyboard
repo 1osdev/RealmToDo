@@ -105,12 +105,7 @@
                             <outlet property="delegate" destination="Mlo-TE-4vX" id="KMg-5k-xFT"/>
                         </connections>
                     </tableView>
-                    <navigationItem key="navigationItem" id="T2c-bh-UKT">
-                        <rightBarButtonItems>
-                            <barButtonItem style="plain" systemItem="add" id="YZh-Xb-nad"/>
-                            <barButtonItem style="plain" systemItem="edit" id="E2n-WL-4LR"/>
-                        </rightBarButtonItems>
-                    </navigationItem>
+                    <navigationItem key="navigationItem" id="T2c-bh-UKT"/>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Aji-DX-RZB" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
